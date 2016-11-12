@@ -1,0 +1,98 @@
+<?php
+if(isset($_GET['a1']))
+{
+   include("validate1.php");	
+}
+if(isset($_GET['a2']))
+{
+   include("validate1.php");	
+}
+if(isset($_GET['a3']))
+{
+   include("validate1.php");	
+}
+if(isset($_GET['a4']))
+{
+   include("validate1.php");	
+}
+if(isset($_GET['a5']))
+{
+   include("validate1.php");	
+}
+if(isset($_GET['a6']))
+{
+   include("validate1.php");	
+}
+if(isset($_GET['a7']))
+{
+   include("validate1.php");	
+}
+if(isset($_GET['a8']))
+{
+   include("validate1.php");	
+}
+if(isset($_GET['a9']))
+{
+   include("validate1.php");	
+}
+if(isset($_GET['a10']))
+{
+   include("validate1.php");	
+}
+if(isset($_GET['a11']))
+{
+   include("validate1.php");	
+}
+if(isset($_GET['a12']))
+{
+   include("validate1.php");	
+}  
+if(isset($_GET['b1']))
+{
+   include("validate1.php");	
+}
+if(isset($_GET['b2']))
+{
+   include("validate1.php");	
+}
+if(isset($_GET['b3']))
+{
+   include("validate1.php");	
+}
+if(isset($_GET['b4']))
+{
+   include("validate1.php");	
+}
+if(isset($_GET['b5']))
+{
+   include("validate1.php");	
+}
+if(isset($_GET['b6']))
+{
+   include("validate1.php");	
+}
+if(isset($_GET['b7']))
+{
+   include("validate1.php");	
+}
+if(isset($_GET['b8']))
+{
+   include("validate1.php");	
+}
+if(isset($_GET['b9']))
+{
+   include("validate1.php");	
+}
+if(isset($_GET['b10']))
+{
+   include("validate1.php");	
+}
+if(isset($_GET['b11']))
+{
+   include("validate1.php");	
+}
+if(isset($_GET['b12']))
+{
+   include("validate1.php");	
+}  
+?>
